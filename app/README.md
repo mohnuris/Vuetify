@@ -1,4 +1,4 @@
-# todo-ninja
+# app
 
 ## Project setup
 ```
